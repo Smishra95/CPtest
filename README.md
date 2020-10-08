@@ -1,1 +1,1 @@
-# CPtest
+This is a GitHub repository!
